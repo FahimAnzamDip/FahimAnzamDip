@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Vue.js**
 
-- 📫 How to reach me **dfahimanzam@gmail.com**
+- 📫 Want to talk about project? Reach me at **dfahimanzam@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
