@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahim Anzam Dip</h1>
-<h6 align="center">Highly passionate about Software Development & Programming in general. I am a Full Stack Web Developer with strong focus on Backend Development. For the past three years I have worked with multiple clients in various project based work. Currently working with Haste IT as a Web Developer.</h3>
+<h6 align="left">Highly passionate about Software Development & Programming in general. I am a Full Stack Web Developer with strong focus on Backend Development. For the past three years I have worked with multiple clients in various project based work. Currently working with Haste IT as a Web Developer.</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://fahimanzam.netlify.app](https://fahimanzam.netlify.app)
