@@ -24,5 +24,6 @@
    <a align="left" href="https://linkedin.com/in/linkedin.com/in/fahim-anzam-dip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fahim-anzam-dip" height="30" width="40" /></a>
     <a align="left" href="https://fb.com/https://www.facebook.com/fahim.anzam.dip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fahim.anzam.dip" height="30" width="40" /></a>
 
+   <img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/fahimanzamdip">
    <img align="right" src="https://komarev.com/ghpvc/?username=fahimanzamdip&label=Profile%20views&color=0e75b6&style=flat" alt="fahimanzamdip" />
 </div>
