@@ -17,7 +17,6 @@
 <h2 align="left">🛠️ My Skills</h2>
 <a href="https://www.php.net/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="Php"></a>
 <a href="https://laravel.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel"></a>
-<a href="https://www.php.net/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="Go"></a>
 <a href="https://www.mysql.com/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="Mysql"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="Postgre"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript"></a>
