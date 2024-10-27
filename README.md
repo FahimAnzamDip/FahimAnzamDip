@@ -3,7 +3,7 @@
 <br>
 
 <h2>🚀 About Me</h2>
-<p align="left">Highly passionate about Software Development & Programming in general. I am a Full Stack Web Developer with strong focus on Backend Development. For the past three years I have worked with multiple clients in various project based work. Currently working with Haste IT as a Web Developer.</p>
+<p align="left">Highly passionate about Software Development & Programming in general. I am a Web Developer with strong focus on Backend Development. For the past three years I have worked with multiple clients in various project based work. Currently working with Haste IT as a Full Stack Web Developer.</p>
 
 
 - 👨‍💻 All of my projects are available at [https://fahimanzam.netlify.app](https://fahimanzam.netlify.app)
@@ -11,6 +11,8 @@
 - 💬 Ask me about **PHP, Laravel, Vue.js**
 
 - 📫 Want to talk about project? Reach me at **dfahimanzam@gmail.com**
+
+- ✍🏻 Currently learning **React.js**
 
 <br>
 
