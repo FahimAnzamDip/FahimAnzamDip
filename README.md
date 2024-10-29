@@ -3,7 +3,7 @@
 <br>
 
 <h2>🚀 About Me</h2>
-<p align="left">Highly passionate about Software Development and Programming in general. Over the past three years I have worked with multiple clients in various project based work. Currently working with Haste IT as a Full Stack Web Developer.</p>
+<p align="left">Highly passionate about Software Development and Programming in general. As a Web Developer, over the past three years I have worked with multiple clients in various project based work. Currently working with Haste IT as a Full Stack Web Developer.</p>
 
 
 - 👨‍💻 All of my projects are available at [https://fahimanzam.netlify.app](https://fahimanzam.netlify.app)
